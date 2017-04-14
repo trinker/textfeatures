@@ -16,7 +16,10 @@ README.R
 travis.yml
 inst/maintenance.R
 Thumb.db
-inst/textfeatures_logo
+tools/textfeatures_logo/r_textfeaturesa.png
+tools/textfeatures_logo/r_textfeatures.pptx
+tools/textfeatures_logo/resize_icon.txt
+inst/staticdocs
 inst/staticdocs
 inst/extra_statdoc
 

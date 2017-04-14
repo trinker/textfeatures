@@ -1,0 +1,2 @@
+cd C:\Users\Tyler\GitHub\textfeatures\tools\textfeatures_logo
+ffmpeg -i r_textfeaturesa.png -vf scale=250:-1 r_textfeatures.png
